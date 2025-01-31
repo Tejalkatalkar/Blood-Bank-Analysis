@@ -32,25 +32,51 @@ This project focuses on analyzing a blood bank database to gain insights into it
 
 
 ### **Questions Explored**
-Here are the key questions analyzed in the project:
+Here are the key questions analyzed in the project
+**Blood Component Categories**
+Q1.How is the distribution of blood bank categories (e.g., Government, Charity, Private) represented visually?
+- Visualized as a **bar chart**.
 
-1. **How have the number of blood banks in each state changed over time?**
-   - Visualized using a **line graph**.
 
-2. **What is the distribution of blood bank categories?**
-   - Presented as a **donut chart**.
+**Blood Component Counts:**
+Q2.What is the count of available blood components in blood banks?
+- Visualized as a **bar chart**.
+  
+**blood bank counts per state**
+Q3.How can we visualize the blood bank counts per state using a bar chart?
+- Visualized as a **bar chart**.
 
-3. **Which district has the highest number of blood banks?**
-   - Visualized using a **bar chart**.
+**Blood Bank Counts as per Top 10 districts**
+Q4.Which top 10 districts have the highest blood bank counts?
+- Visualized as a **bar chart**.
 
-4. **What types of blood components are available in blood banks?**
-   - Presented with a **pie chart**.
+**The counts for each blood component**
+Q5.what are the counts for each blood component?
+- Visualized as a **Donut chart**.
 
-5. **What is the geographical distribution of blood banks?**
-   - **Scatter plot** of latitude and longitude.
+**Correlation Analysis:**
+Q6.What is the correlation between Pincode, Latitude, and Longitude
+- Visualized as a **Correlation Matrix Donut chart**.
 
-6. **How is service time distributed across blood banks?**
-   - Visualized as a **bar chart**.
+**Blood Bank Categories:**
+Q7.What are the counts for each blood bank category (e.g., Government, Charity)?
+- Visualized as a **pie chart**
+.
+**Service Time Distribution:**
+Q8.How is the service time distributed across blood banks, assuming service time is numerical or can be categorized?
+- Visualized as a **line chart**
+
+**Geographical Distribution:**
+Q9.How are blood banks geographically distributed based on Latitude and Longitude?
+ -Visualized as a **Map chart**
+
+**Non-Null Entry Counts:**
+Q10.How many non-null entries are there for Email, Mobile, and Apheresis columns?
+- Visualized as a **bar chart**.
+
+**Qualification Counts:**
+Q11.What are the different qualifications of blood banks, and how many blood banks have each qualification?
+- Visualized as a **bar chart**.
 
 
 ### **How to Open the Project**
